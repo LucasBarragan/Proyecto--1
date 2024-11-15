@@ -23,4 +23,24 @@
                 display: flex; 
         }
     }
+    .ul-navbar{
+        display: flex; 
+        .li-navbar{
+            list-style: none;
+            a{
+                .img-navbar{
+                    width: 30px;
+                    height: 30px;
+                }
+            }
+        }
+    }
+    .navBar li a:hover{
+        color: rgb(235, 96, 117);
+    }
+    
+    .navBar li a{
+        text-decoration: none;
+        color: black;
+    }
 }

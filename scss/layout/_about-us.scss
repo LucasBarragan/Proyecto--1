@@ -1,0 +1,36 @@
+.div-contenedores1{
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+    width: 800px;
+    background-color: rgb(224, 224, 224);
+    padding: 10px;
+    margin-top: 50px;
+    border: 1px solid black;
+    box-shadow: 0 0 4px;
+    .h1-aboutus{
+        text-align: center;
+        
+    }
+    .img-contrato{
+        margin-bottom: 30px;
+    }
+}
+
+.div-cont2{
+    margin-bottom: 50px;
+}
+.link-saber-mas{
+    background-color: #4da8da; 
+    color: white; 
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    font-weight: bold;
+    border-radius: 5px;
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+    text-decoration: none;
+
+
+    
+}

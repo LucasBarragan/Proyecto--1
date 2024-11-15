@@ -1,0 +1,46 @@
+.footer{
+    display: flex;
+    justify-content: space-between;
+    background-color: #e1cd8bdf;
+    h3{
+        margin: 15px;
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+    }
+    .footer-iconos{
+        display: flex;
+        margin: 5px;
+        gap: 20px;
+        .li-footer {
+            list-style: none;
+            .a-footer{
+                text-decoration: none;
+                .img-footer{
+                    width: 50px;
+                }
+            }
+        }
+    }
+    .div-h2-iconos-footer-container{
+        display: flex;
+        flex-direction: column;
+        .h2-footer{
+            color: aliceblue;
+            font-family: "Kaushan Script", cursive;
+            font-size: 80px;
+        }
+        a{
+        .img-logo-footer-inicio{
+            width: 100px;
+            height: 100px;
+            margin-left: 25%;
+            }
+        }
+    }
+}
+
+.div-mapa{
+    margin: 10px;
+}
+
