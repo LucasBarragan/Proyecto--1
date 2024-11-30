@@ -1,0 +1,19 @@
+@media (max-width:1220px){
+    main{
+        .section-principal{
+            height: 650px;
+        }
+        .section-productos{
+            .card-producto-contenier{
+                .card-principal{
+                    .a-card-principal{
+                        .img-edit{
+                            width: 300px;
+                            height: 250px;
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

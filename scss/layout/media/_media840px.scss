@@ -1,0 +1,27 @@
+@media (max-width: 840px){
+    main{
+        .section-tortastematicas{
+            .img-tematica{
+                h2{
+                    font-size: 100px;
+                }
+            }
+        }
+    }
+    footer{
+        .footer{
+            div{
+                .h3-footer-contacto{
+                    font-size: 14px;
+                }
+            }
+        }
+        .div-mapa{
+            margin: 5px;
+            iframe{
+                width: 200px;
+                height: 100%;
+            }
+        }
+    }
+}

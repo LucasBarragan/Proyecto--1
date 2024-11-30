@@ -1,0 +1,20 @@
+@media (max-width:1050px){
+    .main-producto1{
+        .producto1-container{
+            margin: auto;
+            gap: 10px;
+            width: 80%;
+            .producto1-img-container{
+                width: 350px;
+                margin: auto;
+            }
+            .div-descripcion-producto{
+                .producto1-descripcion-venta{
+                    width: 350px;
+                    font-size: 20px !important;
+                    padding: 3px;
+                }
+            }
+        }
+    }
+}

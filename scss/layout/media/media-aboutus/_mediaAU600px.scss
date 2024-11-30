@@ -1,0 +1,24 @@
+@media (max-width:600px){
+    header{
+        display: flex;
+        flex-direction: column;
+        gap: 20px;
+        .ul-navbar{
+            .li-navbar{
+                a{
+                    display: flex;
+                    justify-content: space-around;
+                }
+            }
+        }
+        main{
+            .div-container-aboutus{
+                .div-container{
+                    .div-contenedores1{
+                        width: 400px;
+                    }
+                }
+            }
+        }
+    }
+}

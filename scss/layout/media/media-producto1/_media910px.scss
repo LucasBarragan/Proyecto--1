@@ -1,0 +1,13 @@
+@media (max-width:910px){
+    .main-producto1{
+        .producto1-container{
+            flex-direction: column;
+            .div-descripcion-producto{
+                .producto1-descripcion-venta{
+                    width: 100%;
+                    justify-content: center;
+                }
+            }
+        }
+    }
+}

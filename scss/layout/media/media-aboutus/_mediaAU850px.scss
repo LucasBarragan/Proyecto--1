@@ -1,0 +1,32 @@
+@media (max-width:930px){
+    footer{
+        flex-direction: column;
+        div{
+            .h3-footer-contacto{
+                justify-content: center;
+            }
+            .footer-iconos{
+                justify-content: center;
+            }
+        }
+        .div-h2-iconos-footer-container{
+            .h2-footer{
+                text-align: center;
+            }
+            .a-footer-logo{
+                display: flex;
+                .img-logo-footer-inicio{
+                    margin: auto;
+                }
+            }
+        }
+        .div-mapa{
+            display: flex;
+            iframe{
+                margin: auto;
+                width: 80%;
+                height: 100%;
+            }
+        }
+    }
+}

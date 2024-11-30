@@ -1,0 +1,38 @@
+@media (max-width:445px){
+    main{
+        .section-productos{
+            .card-producto-contenier{
+                .card-principal{
+                    .a-card-principal{
+                        .img-edit{
+                            width: 250px;
+                            height: 150px;
+                        }
+                    }
+                }
+            }
+        }
+        .section-ofertas{
+            .img-ofertas{
+                display: flex;
+                flex-direction: column;
+                .div-oferta{
+                    .a-oferta{
+                            margin: 0px 40px 200px 0px;
+                    }
+                }
+            }
+        }
+        .section-tortastematicas{
+            .img-tematica{
+                display: flex;
+                flex-direction: column;
+                .div-oferta{
+                    .a-tematica{
+                        margin: 25px 20px;
+                    }
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,33 @@
+@media (max-width:740px){
+    main{
+        .section-principal{
+            .img-torta-principal{
+                h1{
+                    font-size: 65px;
+                }
+            }
+        }
+        .section-productos{
+            .card-producto-contenier{
+                display: flex;
+                flex-direction: column;
+                align-items: center;
+                .card-principal{
+                    display: flex;
+                    justify-content: center;            
+                    .a-card-principal{
+                        width: 100%;
+                        .img-edit{
+                            width: 400px;
+                            height: 300px;
+                        }
+                    }
+                    .p-texto{
+                        font-size: 16px;
+                        margin: 5px;
+                    }
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,36 @@
+@media (max-width:600px){
+    header{
+        nav{
+            .navBar{
+                gap: 15px;
+                display: flex;
+                flex-direction: column;
+            }
+        }
+    }
+    main{
+        .div-container-aboutus{
+            .div-container{
+                .div-contenedores1{
+                    width: 300px;
+                }
+            }
+        }
+    }
+    footer{
+        div{
+            .h3-footer-contacto{
+                font-size: 18px;
+            }
+            .footer-iconos{
+                .li-footer{
+                    .a-footer{
+                        .img-footer{
+                            width: 25px;
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

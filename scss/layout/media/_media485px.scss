@@ -1,0 +1,15 @@
+@media (max-width:485px){
+    header{
+        display: flex;
+        flex-direction: column;
+        gap: 20px;
+        .ul-navbar{
+            .li-navbar{
+                a{
+                    display: flex;
+                    justify-content: space-around;
+                }
+            }
+        }
+    }
+}

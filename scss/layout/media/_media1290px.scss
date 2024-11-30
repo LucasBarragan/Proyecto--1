@@ -1,0 +1,24 @@
+@media(max-width:1290px){
+    main{
+        .section-principal{
+            height: 700px;
+            .img-torta-principal{
+                width: 90%;
+                height: auto;
+                background-position: 80% 20%;
+            }
+        }
+        .section-productos{
+            .card-producto-contenier{
+                .card-principal{
+                    .a-card-principal{
+                        .img-edit{
+                            width: 350px;
+                            height: 300px;
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

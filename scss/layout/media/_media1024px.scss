@@ -1,0 +1,35 @@
+@media (max-width:1024px){
+    main{
+        .section-principal{
+            .img-torta-principal{
+                width: 90%;
+                height: auto;
+                background-position: 80% 20%;
+                h1{
+                    font-size: 140px;
+                    margin: auto 40px;
+                }
+            }
+            .section-productos{
+                height: 500px;
+                .card-producto-contenier{
+                    gap: 25px;
+                    .img-edit{
+                        width: 250px;
+                        height: 200px;
+                    }
+                }
+            }
+            .section-ofertas{
+                .img-ofertas{
+                    width: 90%;
+                }
+            }
+            .section-tortastematicas{
+                .img-tematica{
+                    width: 90%;
+                }
+            }
+        }
+    }
+}

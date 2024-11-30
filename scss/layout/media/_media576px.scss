@@ -1,0 +1,56 @@
+@media (max-width:576px){
+    body{
+        ul-navbar{
+            .li-navbar{
+                width: 30px;
+                a{
+                    .img-navbar{
+                        width: 100%;
+                    }
+                }
+            }
+        }
+    }
+    main{
+        .section-ofertas{
+            .img-ofertas{
+                h2{
+                    margin: 0;
+                    padding-left: 10px;
+                    font-size: 55px;
+                }
+                .div-oferta{
+                    .a-oferta{
+                        margin: 0px 60px 30px 0px;
+                    }
+                }
+            }
+        }
+        .section-tortastematicas{
+            .img-tematica{
+                h2{
+                    margin: 0;
+                    padding-left: 10px;
+                    font-size: 55px;
+                    .div-oferta{
+                        .a-tematica{
+                            margin: 0px 60px 30px 0px;
+                        }
+                    }
+                }
+            }
+        }
+    }
+
+
+    .img-tematica h2{
+        margin: 0;
+        padding-left: 10px;
+        font-size: 55px;
+    }
+
+    .a-tematica{
+        margin: 0px 60px 30px 0px;
+    }
+
+}
